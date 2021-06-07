@@ -30,3 +30,6 @@
 
 --> Candidates can add a cover letter to the system. (For example: I like working very much....)
 
+[Intro.pdf](https://github.com/Sumeyya-Eser/HRMS-9-ADVANCED/blob/main/Swagger%20UI.pdf)
+
+[Intro.txt](https://github.com/Sumeyya-Eser/HRMS-9-ADVANCED/blob/main/hrms9Script.txt)
