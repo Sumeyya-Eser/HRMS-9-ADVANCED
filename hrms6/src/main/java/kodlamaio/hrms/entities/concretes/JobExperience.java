@@ -46,7 +46,7 @@ public class JobExperience   {
 	private String position;
 	
 	@ManyToOne
-	@JoinColumn(name = "candidate_id")
+	@JoinColumn(name = "user_id")
 	private Candidates candidate;
 
 	public JobExperience(int id, LocalDate createdDate, boolean isActive, LocalDate endedDate, LocalDate startedDate,

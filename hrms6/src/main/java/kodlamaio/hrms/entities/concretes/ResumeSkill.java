@@ -24,7 +24,7 @@ public class ResumeSkill   {
 	private int id;
 	
 	@JsonIgnore
-	@Column(name= "created_date", columnDefinition = "Date defult CURRENT_DATE")
+	@Column(name= "created_date")
 	private LocalDate createdDate = LocalDate.now();
 
 	

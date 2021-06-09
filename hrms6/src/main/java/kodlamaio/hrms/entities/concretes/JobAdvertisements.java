@@ -38,7 +38,7 @@ public class JobAdvertisements {
 	private Date createDate;
 	
 	@ManyToOne
-	@JoinColumn(name="cityId")
+	@JoinColumn(name="city_id")
 	private City city;
 	
 	@ManyToOne
